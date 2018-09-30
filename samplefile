@@ -1,0 +1,9 @@
+if [ -d /home/jenkins ]
+then
+echo 'directory exit'
+
+else
+
+echo "directory not exit"
+
+fi
